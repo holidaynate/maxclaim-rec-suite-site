@@ -1,0 +1,8 @@
+maxclaim-recovery-suite/
+├── public/
+│   └── index.html               ← Your full interactive app (from previous message)
+├── functions/
+│   └── index.js                 ← Test script + backend logic (below)
+├── firebase.json                ← Hosting + functions config (below)
+├── package.json                 ← Dependencies + scripts
+└── README.md                    ← Your launch notes
