@@ -22,9 +22,9 @@
     "runtime": "nodejs20"
   }
 }
-functions/index.js – COMPREHENSIVE TEST SCRIPT (Runs on Every Deploy)
-const functions = require('firebase-functions');
-const admin = require('firebase-admin');
+functions/index.js – COMPREHENSIVE TEST SCRIPT 
+const functions = require;
+const admin = require;
 admin.initializeApp();
 
 // Test 1: Basic Health Check
